@@ -1,0 +1,6 @@
+{
+  "name": "اقراۃ روضۃ العلم پبلک سکول",
+  "description": "School Management System for اقراۃ روضۃ العلم پبلک سکول - Students, Fees, Timetables, Results, Excel & Documents",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
